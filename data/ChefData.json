@@ -1,0 +1,55 @@
+[
+  {
+    "chef_id": "ch1",
+    "chef_picture": "https://i.ibb.co/9YYQD1q/chef-6.jpg",
+    "chef_name": "Melissa Leong",
+    "years_of_experience": 15,
+    "number_of_recipes": 50,
+    "likes": 10000
+  },
+
+  {
+    "chef_id": "ch2",
+    "chef_picture": "https://i.ibb.co/gPFPLtp/chef-9.jpg",
+    "chef_name": "Dan Hunter",
+    "years_of_experience": 20,
+    "number_of_recipes": 150,
+    "likes": 15000
+  },
+
+  {
+    "chef_id": "ch3",
+    "chef_picture": "https://i.ibb.co/hZR6Tqf/chef-7.jpg",
+    "chef_name": "Emma Dean",
+    "years_of_experience": 10,
+    "number_of_recipes": 80,
+    "likes": 8000
+  },
+
+  {
+    "chef_id": "ch4",
+    "chef_picture": "https://i.ibb.co/QbYDJWr/chef-5.jpg",
+    "chef_name": "Curtis Stone",
+    "years_of_experience": 25,
+    "number_of_recipes": 150,
+    "likes": 18000
+  },
+
+  {
+    "chef_id": "ch5",
+    "chef_picture": "https://i.ibb.co/xh0rcBS/chef-8.jpg",
+    "chef_name": "Maggie Beer",
+    "years_of_experience": 40,
+    "number_of_recipes": 350,
+    "likes": 25000
+  },
+
+  {
+    "chef_id": "ch6",
+    "chef_picture": "https://i.ibb.co/FsxpQ70/chef-2.jpg",
+    "chef_name": "Peter Gilmore",
+    "years_of_experience": 30,
+    "number_of_recipes": 150,
+    "likes": 11000
+  }
+]
